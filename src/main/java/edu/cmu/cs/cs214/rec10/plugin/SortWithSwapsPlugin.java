@@ -13,7 +13,7 @@ public class SortWithSwapsPlugin implements GamePlugin {
     public Boolean move = false;
 
     // An array of the numbers 1-10
-    private int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    private int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11};
 
     // The game framework
     private GameFramework framework = null;
