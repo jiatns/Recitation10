@@ -7,7 +7,7 @@ import java.util.Random;
 
 public class SortWithSwapsPlugin implements GamePlugin {
     private int ONE = 1;
-    private int TEN = 2;
+    private int TEN = 3;
 
     // Describes whether the current move is over
     public Boolean move = false;
